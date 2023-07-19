@@ -4,13 +4,13 @@
 
 
 **About me :**
-- 🌱 I’m currently learning **MERN stack, Devops, DevSecOps, Springboot**
+- I’m currently learning **MERN stack, Devops, DevSecOps, Springboot**
 
-- 💬 Ask me about **DSA, java, javascript, react, nodejs, mongo, express, restapi, mvc, html, css, devops tools-technologies and best practices**
+- Ask me about **DSA, java, javascript, react, nodejs, mongo, express, restapi, mvc, html, css, devops tools-technologies and best practices**
 
-- 📫 How to reach me **nikhilgautam1729@gmail.com**
+- How to reach me **nikhilgautam1729@gmail.com**
 
-- ⚡ Fun fact **I am Batman**
+- Fun fact **I am Batman**
 
 
 📈 **My GitHub Stats:**
